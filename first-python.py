@@ -1,4 +1,4 @@
-# Python3 program to add two numbers 
+# Python3 program to add two numbers update
   
 number1 = input("First number is: ") 
 number2 = input("\nSecond number: ") 
